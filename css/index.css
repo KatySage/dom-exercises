@@ -7,3 +7,9 @@ body {
   margin: 0 4px;
   padding: 2px 8px;
 }
+
+.placeholder.filled {
+  background-color: green;
+  margin: 0 4px;
+  padding: 2px 8px;
+}
